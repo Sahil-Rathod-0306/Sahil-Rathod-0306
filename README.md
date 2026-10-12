@@ -26,7 +26,7 @@
 
 
 <div align="left">
-I'm **Sahil Rathod**, an Information Technology Engineering student passionate about **Backend Development, Full Stack Engineering, and AI-powered applications**.
+I'm Sahil Rathod, an Information Technology Engineering student passionate about **Backend Development, Full Stack Engineering, and AI-powered applications**.
 
 - 🔭 **Currently building:** FraudShield Intelligence – AI-Powered Fraud Detection Platform
 - 💻 **Core expertise:** Node.js, Express.js, TypeScript, MongoDB & REST APIs
