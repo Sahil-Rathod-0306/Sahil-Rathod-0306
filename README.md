@@ -1,76 +1,142 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:159957&height=210&section=header&text=Sahil%20Rathod&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=19" alt="Sahil Rathod Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:159957&height=210&section=header&text=Sahil%20Rathod&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=60&descSize=19" alt="Sahil Rathod Banner"/>
 
-<a href="https://github.com/Sahil-Rathod-0306">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38D996&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;Exploring+Cloud+and+System+Design;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38D996&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+API+Engineer;Building+Scalable+Web+Applications;Exploring+Artificial+Intelligence+%26+ML;Learning+Cloud+%26+System+Design;Turning+Ideas+Into+Real-World+Solutions" alt="Typing Animation"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sahil-rathod-073b92354/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:sahilrathod0306@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Sahil-Rathod-0306">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sahil-Rathod-0306&label=Profile%20Views&color=159957&style=flat-square" alt="Profile Views"/>
-
-</div>
-
----
-
-<!-- ================= ABOUT ================= -->
+<br/>
+<!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
 
 I'm **Sahil Rathod**, an Information Technology Engineering student passionate about **Backend Development, Full Stack Engineering, and AI-powered applications**.
 
-- 🔭 Building **FraudShield Intelligence**, an AI-powered fraud detection platform
-- 💻 Focused on **Node.js, Express.js, MongoDB & REST APIs**
-- 🌱 Exploring **System Design, Microservices, Cloud & Machine Learning**
-- 🤝 Open to **Open Source and Full Stack Collaborations**
-- ⚡ I enjoy transforming complex problems into practical software solutions
+- 🔭 **Currently building:** FraudShield Intelligence – AI-Powered Fraud Detection Platform
+- 💻 **Core expertise:** Node.js, Express.js, TypeScript, MongoDB & REST APIs
+- 🌱 **Currently learning:** System Design, Microservices, Docker, Cloud & Advanced AI
+- 🤝 **Open to:** Open Source, Backend & Full Stack Collaborations
+- 💬 **Ask me about:** Backend Development, APIs, Databases & Full Stack Applications
+- ⚡ **Fun fact:** I enjoy solving real-world problems through code!
 
 ---
 
 <!-- ================= TECH STACK ================= -->
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Technologies
 
-<div align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,ts,js,python,fastapi&perline=7&theme=dark" alt="Backend Technologies"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="Programming Languages"/>
+</p>
 
-<br/>
+**JavaScript • TypeScript • Python • C++ • SQL • HTML5 • CSS3**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,git,github,postman&perline=7&theme=dark" alt="Development Tools"/>
+### ⚙️ Backend Development
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend Technologies"/>
+</p>
 
-<br/>
+**Node.js • Express.js • FastAPI • Flask • REST APIs • JWT Authentication • RBAC • WebSockets**
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Node.js, Express.js, TypeScript, FastAPI |
-| **Database** | MongoDB, Mongoose, MySQL |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **AI / ML** | Python, Scikit-learn, NumPy |
-| **Tools** | Git, GitHub, Postman, VS Code |
-| **Currently Exploring** | Docker, AWS, Microservices, System Design |
+### 🎨 Frontend & Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,reactnative&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+**React.js • Next.js • React Native • Expo • Tailwind CSS • Bootstrap • Leaflet**
+
+### 🗄️ Databases & Data Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Databases"/>
+</p>
+
+**MongoDB • Mongoose • MySQL • PostgreSQL • Firebase Realtime Database • Qdrant**
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Technologies"/>
+</p>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Python • Scikit-learn • Pandas • NumPy • Machine Learning • RAG • Ollama • Tree-sitter**
+
+*Exploring: TensorFlow and advanced Deep Learning*
+
+### 🧰 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,powershell&theme=dark" alt="Developer Tools"/>
+</p>
+
+**Git • GitHub • VS Code • Postman • Android Studio • PowerShell**
+
+### ☁️ Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,redis,linux&theme=dark" alt="Learning Technologies"/>
+</p>
+
+**Docker • AWS • Redis • Linux • Microservices • System Design • Cloud Infrastructure**
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= EXPERTISE ================= -->
+
+## 🎯 Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- RESTful API Development
+- Authentication & Authorization
+- MongoDB & Database Design
+- Scalable Application Architecture
+- API Integration & Testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Software Intelligence
+
+- Machine Learning Integration
+- Fraud & Anomaly Detection
+- Retrieval-Augmented Generation
+- Repository Intelligence
+- Intelligent Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
@@ -80,39 +146,46 @@ I'm **Sahil Rathod**, an Information Technology Engineering student passionate a
 
 ### 🛡️ [FraudShield Intelligence](https://github.com/Sahil-Rathod-0306/FraudShield-Intelligence)
 
-AI-powered financial fraud detection system featuring transaction analysis, intelligent risk scoring, and fraud investigations.
+AI-powered financial fraud detection platform featuring transaction analysis, ML-powered predictions, risk assessment, fraud case management, and investigator workflows.
 
-**Stack:** Node.js, Express.js, MongoDB, Next.js, Python, FastAPI
+**Tech Stack:**
+
+`Next.js` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 [LogIQ](https://github.com/Sahil-Rathod-0306/logiq)
 
-Intelligent security log monitoring platform with anomaly detection, incident management, and AI-assisted threat analysis.
+Intelligent log monitoring and security analytics platform with anomaly detection, incident management, and automated risk analysis.
 
-**Stack:** Next.js, Express.js, MongoDB, TypeScript
+**Tech Stack:**
+
+`Next.js` `Express.js` `MongoDB` `TypeScript`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 CodeAtlas
 
-Enterprise software intelligence platform for repository analysis, semantic search, AI-powered code understanding, and architecture visualization.
+Enterprise software intelligence platform designed for repository understanding, semantic code search, RAG-based assistance, architecture visualization, and dependency analysis.
 
-**Stack:** Next.js, TypeScript, RAG, Tree-sitter
+**Tech Stack:**
+
+`Next.js` `TypeScript` `Tree-sitter` `Qdrant` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ [SheCurity](https://github.com/Sahil-Rathod-0306/SheCurity_App)
 
-Women’s safety application featuring emergency SOS, location sharing, and safety-focused mobile functionality.
+Women's safety application with emergency SOS, real-time location tracking, safe-zone monitoring, and emergency assistance.
 
-**Stack:** React Native, Node.js, Firebase
+**Tech Stack:**
+
+`React Native` `Node.js` `Firebase`
 
 </td>
 </tr>
@@ -121,7 +194,7 @@ Women’s safety application featuring emergency SOS, location sharing, and safe
 <div align="center">
 
 <a href="https://github.com/Sahil-Rathod-0306?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Projects-159957?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-159957?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
 </a>
 
 </div>
@@ -134,7 +207,7 @@ Women’s safety application featuring emergency SOS, location sharing, and safe
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Sahil-Rathod-0306&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Sahil-Rathod-0306&show_icons=true&theme=merko&hide_border=true" alt="GitHub Statistics"/>
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil-Rathod-0306&layout=compact&theme=merko&hide_border=true" alt="Top Languages"/>
 
@@ -146,27 +219,28 @@ Women’s safety application featuring emergency SOS, location sharing, and safe
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Rathod-0306&theme=merko&hide_border=true&area=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Rathod-0306&theme=merko&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-<!-- ================= INTERESTS ================= -->
+<!-- ================= CURRENT FOCUS ================= -->
 
-## 🎯 What I'm Focused On
+## 🚀 What I'm Currently Exploring
 
-- ⚙️ Designing reliable backend systems and RESTful APIs
-- 🔐 Building secure applications with JWT and role-based access
-- 🤖 Integrating Machine Learning into real-world applications
-- ☁️ Learning cloud infrastructure and scalable architecture
-- 🌍 Contributing to impactful open-source projects
+- 🏗️ Advanced Backend Architecture & System Design
+- ☁️ Cloud Computing & Application Deployment
+- 🔐 Secure API Development & Authentication
+- 🤖 AI/ML Integration with Backend Systems
+- ⚡ Performance Optimization & Scalable Applications
+- 🐳 Docker, Redis & Microservices Architecture
 
 ---
 
@@ -174,20 +248,22 @@ Women’s safety application featuring emergency SOS, location sharing, and safe
 
 <div align="center">
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
-I'm always interested in meaningful collaborations, learning opportunities, and building innovative solutions.
+I'm always excited to learn new technologies, contribute to open-source projects, and build impactful software solutions.
 
-**💚 Let's build something amazing together!**
+**💚 Open to Backend Development, Full Stack & AI Collaborations**
 
 <a href="mailto:sahilrathod0306@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-159957?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-159957?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
 </a>
 
 <br/><br/>
 
 ### 💡 "Code. Create. Innovate. Repeat."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:159957,100:0D1117&height=110&section=footer" alt="Footer"/>
+⭐ **Thanks for visiting my profile!**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:159957,100:0D1117&height=120&section=footer" alt="Footer"/>
 
 </div>
