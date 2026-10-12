@@ -44,35 +44,15 @@ I'm **Sahil Rathod**, an Information Technology Engineering student passionate a
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" alt="Programming Languages"/>
 </p>
-
-**JavaScript • TypeScript • Python • C++ • SQL • HTML5 • CSS3**
-
-### ⚙️ Backend Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend Technologies"/>
 </p>
-
-**Node.js • Express.js • FastAPI • Flask • REST APIs • JWT Authentication • RBAC • WebSockets**
-
-### 🎨 Frontend & Mobile Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,reactnative&theme=dark" alt="Frontend Technologies"/>
 </p>
-
-**React.js • Next.js • React Native • Expo • Tailwind CSS • Bootstrap • Leaflet**
-
-### 🗄️ Databases & Data Storage
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Databases"/>
 </p>
-
-**MongoDB • Mongoose • MySQL • PostgreSQL • Firebase Realtime Database • Qdrant**
-
-### 🤖 Artificial Intelligence & Machine Learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Technologies"/>
 </p>
@@ -80,29 +60,13 @@ I'm **Sahil Rathod**, an Information Technology Engineering student passionate a
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Python • Scikit-learn • Pandas • NumPy • Machine Learning • RAG • Ollama • Tree-sitter**
-
-*Exploring: TensorFlow and advanced Deep Learning*
-
-### 🧰 Developer Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,powershell&theme=dark" alt="Developer Tools"/>
 </p>
 
-**Git • GitHub • VS Code • Postman • Android Studio • PowerShell**
-
-### ☁️ Currently Exploring
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,redis,linux&theme=dark" alt="Learning Technologies"/>
 </p>
-
-**Docker • AWS • Redis • Linux • Microservices • System Design • Cloud Infrastructure**
-
----
-
 <!-- ================= EXPERTISE ================= -->
 
 ## 🎯 Areas of Interest
