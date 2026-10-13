@@ -1,8 +1,4 @@
-
-<!-- ================= HEADER ================= -->
-
 <div align="center">
-
 <img width="85%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:159957&height=210&section=header&text=Sahil%20Rathod&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Backend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlign=25&descAlignY=60&descSize=19" alt="Sahil Rathod Banner"/>
 
 <br/>
@@ -26,7 +22,9 @@
 
 
 <div align="left">
-I'm Sahil Rathod, an Information Technology Engineering student passionate about **Backend Development, Full Stack Engineering, and AI-powered applications**.
+  
+I'm **Sahil Rathod**, an Information Technology Engineering student passionate about **Backend Development, Full Stack Engineering, and AI-powered applications**.
+</h1>
 
 - 🔭 **Currently building:** FraudShield Intelligence – AI-Powered Fraud Detection Platform
 - 💻 **Core expertise:** Node.js, Express.js, TypeScript, MongoDB & REST APIs
